@@ -31,6 +31,6 @@ public class A8 {
     }
 
     private static void KcalPerMeal(String[] meal, int[] kcal) {
-        
+
     }
 }
